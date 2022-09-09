@@ -20,5 +20,9 @@
    "forgot":
    "هل نسيت <span class=password_link>كلمة السر</span>",
    "or":"أو",
-   "activ_account":"التفعيل الاولي للحساب"
+   "activ_account":"التفعيل الاولي للحساب",
+   "en":"English",
+   "fr":"français",
+   "ar":"العربية"
+   
 }

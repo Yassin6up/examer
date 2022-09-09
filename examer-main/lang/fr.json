@@ -1,0 +1,27 @@
+{
+  "dir": "ltr",
+  "font": "'Ubuntu', sans-serif",
+  "header-p": "La meilleure façon de gérer votre système éducatif",
+  "header-btn": "Enregistrement",
+  "title": "Examer",
+  "intro1": "<span>Examer</span> est un système de gestion de l'éducation en ligne. pour les enseignants, les étudiants et les parents. Vous gérez vos points et éditez ce point à tout moment. Vous pouvez voir vos points et gérer votre temps pour faire du bien à la vie et à l'avenir. ",
+  "intro2": "Ajoutez de nouveaux étudiants de n'importe quelle école. Les enseignants, hommes et femmes, de 10 à 25 ans peuvent utiliser <span>Examer</span>.",
+  "intro3": "<span>Examer</span> peut calculer votre <span>tarif</span> automatiquement. sans effort. et liste de tous les prochains examens. ",
+  "admin-cart": "Gérer toutes les activités et toutes les affaires.",
+  "admin-cart-title": "Administrateur",
+  "teacher-cart-title": "Professeur(e)",
+  "teacher-cart": "Gérer toutes les activités et toutes les affaires.",
+  "student-cart-title": "Étudiant(e)",
+  "student-cart": "Voir tous vos points et faire une liste de choses à faire pour passer de bons moments.",
+  "login": "connexion",
+   "login-title":"Se connecter",
+   "login.email":"Entrer le code",
+   "header-pp":"Vérifiez vos points et écrivez une liste de choses à faire",
+   "forgot":"Vous avez oublié votre <span class=password_link>mot de passe</span>",
+   "or":"ou",
+   "activ_account":"activer le compte",
+   "en":"English",
+   "fr":"français",
+   "ar":"العربية"
+   
+}

@@ -1,5 +1,5 @@
 #lang{
-  border:none;
+  border: none;
   display: flex;
   justify-content: center;
   background-color: white;
@@ -10,10 +10,7 @@
   transition: 1s all;
   margin-top: 40px;
 }
-.lang_btn:hover{
-  border-bottom:solid 2px #609FFF;
-  transform: scale(1);
-}
+
 * {
   padding: 0;
   margin: 0;

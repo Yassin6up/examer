@@ -19,5 +19,9 @@
    "header-pp":"Check your points and write a to-do list",
    "forgot":"Forgot your <span class=password_link>password</span>",
    "or":"OR",
-   "activ_account":"activate the account"
+   "activ_account":"activate the account",
+   "en":"English",
+   "fr":"Français",
+   "ar":"العربية"
+   
 }
