@@ -1,0 +1,125 @@
+#lang{
+  border:none;
+  display: flex;
+  justify-content: center;
+  background-color: white;
+  color: #4453FF ;
+  padding: 5px;
+  margin-left: 5px;
+  margin-right: 5px;
+  transition: 1s all;
+  margin-top: 40px;
+}
+.lang_btn:hover{
+  border-bottom:solid 2px #609FFF;
+  transform: scale(1);
+}
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+
+ font-family:  'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;
+}
+body{
+  min-height: 100vh;
+
+}
+.all-page{
+  border-top-left-radius: 10px;
+  width: auto;
+  border-top-right-radius: 10px;
+  background-color: white;
+  margin-top:50px;
+  z-index: 100;
+}
+.hed{
+  background-image: url(/examer-main/assets/admin_login.png);
+  padding: 10px 15px;
+  padding-bottom: 50px;
+  z-index: -1;
+  background-size: cover;
+  background-attachment: fixed;
+  height: 600px;
+  background-repeat: no-repeat;
+  color: #EFEFEF;
+}
+h1{
+  font-size: 40pt;
+  font-weight: 800;
+  letter-spacing: 4px;
+  margin-bottom: 25px;
+}
+p{
+  font-size: 18pt;
+  font-weight: 300;
+  margin-bottom: 50px;
+  
+}
+.logo-wizara{
+  width: 60%;
+  position: relative;
+ margin-top: 40px;
+}
+h2{
+  margin-top: 20px;
+  margin-bottom: 30px;
+  letter-spacing: 2px;
+  color:black;
+}
+.login_page{
+  width:80%;
+  height: 250px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  padding-bottom: 80px;
+}
+
+input{
+  width: 80%;
+  padding: 15px;
+  outline: none;
+  border-radius: 5px;
+  border-top: hidden;
+  border-left: hidden;
+  border-color: #7ED9FF;
+  border-right: hidden;
+  margin-top: 30px;
+}
+.passwo{
+  
+}
+.btn{
+  width: 50%;
+  padding: 10px;
+  margin-top: 30px;
+  border-radius: 5px 10px ;
+  border:2px solid #7ED9FF ;
+  transition: 1s;
+}
+.btn:hover{
+  transform: scale(1.1);
+  background-color:#7ED9FF ;
+  box-shadow: 1px 1px 10px #7ED9FF ;
+  border: hidden;
+  color: white;
+  font-size: 20px;
+}
+.forgot{
+  color:black;
+  font-size: 15px;
+  display: flex;
+  justify-content: center;
+  margin-top: 4px;
+}
+.password_link{
+  color: #3887FF;
+  font-size: 17px;
+  font-weight: 600;
+  letter-spacing: 2px;
+}
+.password_link:after{
+  content: "?";
+}
