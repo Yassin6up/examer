@@ -18,7 +18,7 @@ body{
   z-index: 100;
 }
 .hed{
-  background-image: url(/examer-main/assets/students.png);
+  background-image: url(assets/students.png);
   padding: 10px 15px;
   padding-bottom: 50px;
   z-index: -1;
