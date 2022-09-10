@@ -14,7 +14,7 @@ ln.childNodes.forEach(el => {
 });
 
 async function changeLang(value) {
-  const file = await fetch("lang/" + value + ".json");
+  const file = await fetch("examer-main/lang/" + value + ".json");
   const json = await file.json();
 
 
